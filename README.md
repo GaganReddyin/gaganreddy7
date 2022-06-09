@@ -7,6 +7,27 @@
 
 <p align="left"> <a href="https://twitter.com/GaganThoughts" target="blank"><img src="https://img.shields.io/twitter/follow/GaganThoughts?logo=twitter&style=for-the-badge" alt="franky_sagan" /></a> </p>
 
+
+- 🔭 I’m currently working on **Cloud Application**
+
+- 🌱 I’m currently learning **GCP, React JS**
+
+- 👯 I’m looking to collaborate on **Cloud Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/gaganreddy7](https://github.com/gaganreddy7)
+
+- 📫 How to reach me **mallamgagan.reddy2020@vitstudent.ac.in**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/gagan-reddy-6365411ba/](https://www.linkedin.com/in/gagan-reddy-6365411ba/)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/GaganThoughts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GaganThoughts" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gagan-reddy-6365411ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan reddy" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gaganthoughts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaganthoughts" height="30" width="40" /></a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaganreddy7&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaganreddy7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
