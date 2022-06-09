@@ -26,11 +26,7 @@
 <a href="https://twitter.com/GaganThoughts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GaganThoughts" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gagan-reddy-6365411ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan reddy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gaganthoughts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaganthoughts" height="30" width="40" /></a>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaganreddy7&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaganreddy7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 # Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -40,3 +36,11 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaganreddy7&show_icons=true&locale=en&layout=compact" 
+alt="gaganreddy7" /></p>
+
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=gaganreddy7&show_icons=true&locale=en" alt="gaganreddy7" /></p>
+
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=gaganreddy7&" alt="gaganreddy7" /></p>
