@@ -1,5 +1,6 @@
-[![MasterHead]https://cutewallpaper.org/21/stay-hungry-stay-foolish-wallpaper/FHDQ-Stay-Hungry-Stay-Foolish-Amazing-Stay-Hungry-Stay-.jpg(https://gaganreddy7.io)
+
 # Hi there, I'm Gagan!👋
+
 <h3 align="center">A passionate programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganreddy7&label=Profile%20views&color=0e75b6&style=flat" alt="gaganreddy7" /> </p>
